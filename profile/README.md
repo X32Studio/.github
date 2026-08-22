@@ -12,9 +12,9 @@
 
 ---
 
-A two-person crew building at the edge of useful technology. Everything we ship is a working instrument — documented in public, shipped when it works.
+An elite geek crew building at the edge of useful technology. Everything we ship is a working instrument — documented in public, shipped when it works.
 
-一个两人小队，在有用技术的边缘做东西。我们发布的每个项目都是能用的仪器——公开建造，能用了才发布。
+一支精英 geek 小队，在有用技术的边缘做东西。我们发布的每个项目都是能用的仪器——公开建造，能用了才发布。
 
 ## Instruments / 仪器
 
