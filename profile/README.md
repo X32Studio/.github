@@ -22,7 +22,7 @@ Everything we ship is a working instrument — documented in public, verified by
 
 | Instrument | Role in the Stack | What it does |
 | --- | --- | --- |
-| [**self-loop**](https://github.com/X32Studio/self-loop) | **Delivery Engine** | First-principles framing, cross-vendor Critic/Actor/Judge hardening, premise-attack alarms, and Git-backed CI landing gates. 面向 Coding Agent 的跨厂商对抗与代码门禁自循环。 |
+| [**self-loop**](https://github.com/X32Studio/self-loop) | **Agent Organization Engine** | Turns a chaotic agent mob into a trustworthy delivery organization (cross-vendor Critic/Actor/Judge + hard Git/CI gates) so you protect your attention and ship while drinking coffee. 把混乱的 Agent 乌合之众整编为可信赖、能直接交付的 Agent 组织，守住人的 Attention，让你街边喝咖啡时照常交付。 |
 | [**Best Practice for Skills System**](https://github.com/X32Studio/best-practice-for-skills-system) | **Skill Architecture** | Seven systems-engineering principles for organizing agent skill collections without trigger shadowing or context bloat. 系统工程视角的 Skill 组织方法论。 |
 | [**Argus**](https://github.com/X32Studio/Argus) | **Research Agent** | Grow a persistent research tree from a messy field — a deep-research agent packaged as one skill. 持续深挖、不断生长的研究树 agent。 |
 | [**Agent DAO: Past, Future & Destiny**](https://github.com/X32Studio/agent-dao-public) | **Monograph** | Publication on the past, future, and destiny of autonomous agents. 关于 Agent 过去、未来与命运的出版物。 |
