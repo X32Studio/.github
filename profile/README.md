@@ -6,7 +6,7 @@
 
 **Carbon–Silicon Hybrid Intelligence · Organizational Intelligence · Autonomous Delivery Instruments**
 
-[Website](https://x32studio.com) · [self-loop](https://github.com/X32Studio/self-loop) · [Argus](https://github.com/X32Studio/Argus) · [Founder @k-r33](https://github.com/k-r33) · [hello@x32studio.com](mailto:hello@x32studio.com)
+[Website](https://x32studio.com) · [self-loop](https://github.com/X32Studio/self-loop) · [Argus](https://github.com/X32Studio/Argus) · [Founder @k-r33](https://github.com/k-r33) · [kang@x32studio.com](mailto:kang@x32studio.com)
 
 </div>
 
