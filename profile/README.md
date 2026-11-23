@@ -4,30 +4,33 @@
 
 ### We grow software where the map ends.
 
-**Agentic systems · Developer tools · Handmade software**
+**Carbon–Silicon Hybrid Intelligence · Organizational Intelligence · Autonomous Delivery Instruments**
 
-[Website](https://x32studio.com) · [Blog](https://x32studio.com/blog/) · [Argus](https://github.com/X32Studio/Argus) · [hello@x32studio.com](mailto:hello@x32studio.com)
+[Website](https://x32studio.com) · [self-loop](https://github.com/X32Studio/self-loop) · [Argus](https://github.com/X32Studio/Argus) · [Founder @k-r33](https://github.com/k-r33) · [hello@x32studio.com](mailto:hello@x32studio.com)
 
 </div>
 
 ---
 
-An elite geek crew building at the edge of useful technology. Everything we ship is a working instrument — documented in public, shipped when it works.
+**Kang & his Agent Team** — a one-person AI engineering studio founded by **[Ruiyuan Kang (`k-r33`)](https://github.com/k-r33)** (AI startup CxO / DRI & OPC from Strategy to Delivery; former Head of the AI Agent Department at UAE's Technology Innovation Institute, TII).
 
-一支精英 geek 小队，在有用技术的边缘做东西。我们发布的每个项目都是能用的仪器——公开建造，能用了才发布。
+Everything we ship is a working instrument — documented in public, verified by code gates, shipped when it works.
 
-## Instruments / 仪器
+**Kang 和他的 Agent 团队**——由 **[Ruiyuan Kang (`k-r33`)](https://github.com/k-r33)** 创立的极客一人公司工作室（AI 初创公司 CxO / DRI & OPC，从 Strategy 到交付推进组织智能与硅基/碳基混合智能；前阿联酋 TII AI Agent 部门负责人）。我们发布的每个项目都是能用的仪器——公开建造，靠代码门禁验证，能用了才发布。
 
-| Project | What it does |
-| --- | --- |
-| [**Argus**](https://github.com/X32Studio/Argus) | Grow a research tree from a messy field — a deep-research agent packaged as one Claude Code skill. 持续深挖、不断生长的研究树 agent。 |
-| [**Best Practice for Skills System**](https://github.com/X32Studio/best-practice-for-skills-system) | How to organize agent skills as a coherent system — stop trigger conflicts, know when to build a new skill. 系统工程视角的 skill 组织方法论。 |
-| [**Agent DAO: Past, Future & Destiny**](https://github.com/X32Studio/agent-dao-public) | A PDF-only publication on the past, future, and destiny of agents. 关于 agent 的过去、未来与命运。 |
+## Instruments / 仪器矩阵
 
-## Ground station / 地面站
+| Instrument | Role in the Stack | What it does |
+| --- | --- | --- |
+| [**self-loop**](https://github.com/X32Studio/self-loop) | **Delivery Engine** | First-principles framing, cross-vendor Critic/Actor/Judge hardening, premise-attack alarms, and Git-backed CI landing gates. 面向 Coding Agent 的跨厂商对抗与代码门禁自循环。 |
+| [**Best Practice for Skills System**](https://github.com/X32Studio/best-practice-for-skills-system) | **Skill Architecture** | Seven systems-engineering principles for organizing agent skill collections without trigger shadowing or context bloat. 系统工程视角的 Skill 组织方法论。 |
+| [**Argus**](https://github.com/X32Studio/Argus) | **Research Agent** | Grow a persistent research tree from a messy field — a deep-research agent packaged as one skill. 持续深挖、不断生长的研究树 agent。 |
+| [**Agent DAO: Past, Future & Destiny**](https://github.com/X32Studio/agent-dao-public) | **Monograph** | Publication on the past, future, and destiny of autonomous agents. 关于 Agent 过去、未来与命运的出版物。 |
 
-Projects, field notes, and build logs live at **[x32studio.com](https://x32studio.com)**.
+## Ground Station / 地面站
+
+Architecture notes, instruments, and field logs live at **[x32studio.com](https://x32studio.com)**.
 
 <div align="center">
-<sub>Deep space operations · est. 2026</sub>
+<sub>Deep space operations · One-person AI studio · est. 2026</sub>
 </div>
