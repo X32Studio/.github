@@ -1,36 +1,40 @@
 <div align="center">
+  <a href="https://x32studio.com">
+    <img src="https://x32studio.com/og-image.png" alt="X32 Studio — Autonomous Engineering Systems & Agentic Stack" width="100%" />
+  </a>
+</div>
 
-# X32 Studio
+<br />
 
-### We grow software where the map ends.
+<div align="center">
 
-**Carbon–Silicon Hybrid Intelligence · Organizational Intelligence · Autonomous Delivery Instruments**
-
-[Website](https://x32studio.com) · [self-loop](https://github.com/X32Studio/self-loop) · [Argus](https://github.com/X32Studio/Argus) · [Founder @k-r33](https://github.com/k-r33) · [kang@x32studio.com](mailto:kang@x32studio.com)
+[**x32studio.com**](https://x32studio.com) &nbsp;·&nbsp; [**中文主页**](https://x32studio.com/zh/) &nbsp;·&nbsp; [**self-loop**](https://github.com/X32Studio/self-loop) &nbsp;·&nbsp; [**Argus**](https://github.com/X32Studio/Argus) &nbsp;·&nbsp; [**Ruiyuan Kang (`@k-r33`)**](https://github.com/k-r33) &nbsp;·&nbsp; [**kang@x32studio.com**](mailto:kang@x32studio.com)
 
 </div>
 
 ---
 
-**Kang & his Agent Team** — a one-person AI engineering studio founded by **[Ruiyuan Kang (`k-r33`)](https://github.com/k-r33)** (AI startup CxO / DRI & OPC from Strategy to Delivery; former Head of the AI Agent Department at UAE's Technology Innovation Institute, TII).
+**X32 Studio** is a one-person AI engineering studio founded by **[Ruiyuan Kang (`k-r33`)](https://github.com/k-r33)** — AI startup CxO (DRI & OPC from Strategy to Delivery) and former Head of the AI Agent Department at the UAE's Technology Innovation Institute (TII).
 
-Everything we ship is a working instrument — documented in public, verified by code gates, shipped when it works.
+Compute is cheap. Human attention is the bottleneck. X32 Studio builds governed engineering systems that turn unmanaged coding agents into verifiable delivery organizations — advancing **Organizational Intelligence** and **Carbon–Silicon Hybrid Intelligence** in public.
 
-**Kang 和他的 Agent 团队**——由 **[Ruiyuan Kang (`k-r33`)](https://github.com/k-r33)** 创立的极客一人公司工作室（AI 初创公司 CxO / DRI & OPC，从 Strategy 到交付推进组织智能与硅基/碳基混合智能；前阿联酋 TII AI Agent 部门负责人）。我们发布的每个项目都是能用的仪器——公开建造，靠代码门禁验证，能用了才发布。
+**X32 Studio** 是由 **[康瑞源 Ruiyuan Kang (`k-r33`)](https://github.com/k-r33)**（AI 创业公司 CxO / DRI & OPC；前阿联酋国家技术创新研究院 TII AI Agent 部门负责人）创立的一人 AI 工程工作室。算力廉价，人的注意力才是真正瓶颈——我们以代码级硬门禁与跨厂商独立验证，公开构建面向未来的**组织智能**与**碳硅混合智能**系统。
 
-## Instruments / 仪器矩阵
+---
 
-| Instrument | Role in the Stack | What it does |
-| --- | --- | --- |
-| [**self-loop**](https://github.com/X32Studio/self-loop) | **Agent Organization Engine** | Turns a chaotic agent mob into a trustworthy delivery organization (cross-vendor Critic/Actor/Judge + hard Git/CI gates) so you protect your attention and ship while drinking coffee. 把混乱的 Agent 乌合之众整编为可信赖、能直接交付的 Agent 组织，守住人的 Attention，让你街边喝咖啡时照常交付。 |
-| [**Best Practice for Skills System**](https://github.com/X32Studio/best-practice-for-skills-system) | **Skill Architecture** | Seven systems-engineering principles for organizing agent skill collections without trigger shadowing or context bloat. 系统工程视角的 Skill 组织方法论。 |
-| [**Argus**](https://github.com/X32Studio/Argus) | **Research Agent** | Grow a persistent research tree from a messy field — a deep-research agent packaged as one skill. 持续深挖、不断生长的研究树 agent。 |
-| [**Agent DAO: Past, Future & Destiny**](https://github.com/X32Studio/agent-dao-public) | **Monograph** | Publication on the past, future, and destiny of autonomous agents. 关于 Agent 过去、未来与命运的出版物。 |
+## Four-Layer Closed-Loop Architecture / 四层闭环工程栈
 
-## Ground Station / 地面站
+| Layer | System | Role | Summary |
+| :--- | :--- | :--- | :--- |
+| **01** | [**self-loop**](https://github.com/X32Studio/self-loop) | **Governed Agent Coding Team** | Chains contract planning, dependency-aware parallel Actor waves, and cross-vendor Critic / Judge verification behind premise exit-7 brakes, SSOT drift checks, anti-rot scanning, and exact-commit CI receipts. 串联规划契约、依赖图解耦并行调度与跨厂商独立裁决，以代码硬门禁取代提示词服从。 |
+| **02** | [**System of Skills**](https://github.com/X32Studio/best-practice-for-skills-system) | **Skill Topology Spec** | Systems-engineering architecture for multi-skill agent libraries — disjoint trigger envelopes, single-owner capability boundaries, and lifecycle governance without silent degradation. 面向多 Skill 系统的工程规范，解决触发冲突与组合退化。 |
+| **03** | [**Argus**](https://github.com/X32Studio/Argus) | **Exploration & Decision Engine** | Persistent deep-exploration and decision-intelligence engine (`hunt`, `intel`, `decision`, `research`) with JEV two-layer routing, conflict preservation, and live knowledge-graph dashboard. 持久深度探索与高风险决策推演引擎，支持证据树累积与冲突保留。 |
+| **04** | [**Agent DAO**](https://github.com/X32Studio/agent-dao-public) | **First-Principles Monograph** | Bilingual monograph tracing prompting, RAG, MCP, skills, harnesses, and autonomous loops to one structural law: external structure grows around a model's compression frontier before partial absorption. 中英双语第一性原理专著，推导外部结构演进规律。 |
 
-Architecture notes, instruments, and field logs live at **[x32studio.com](https://x32studio.com)**.
+---
 
-<div align="center">
-<sub>Deep space operations · One-person AI studio · est. 2026</sub>
-</div>
+## Site & Operating Channels / 站点与公开通道
+
+- **Official Site**: [x32studio.com](https://x32studio.com) · [x32studio.com/zh/](https://x32studio.com/zh/) ([source](https://github.com/X32Studio/homepage))
+- **Founder**: [github.com/k-r33](https://github.com/k-r33) · [k-r33.github.io](https://k-r33.github.io)
+- **Contact**: [kang@x32studio.com](mailto:kang@x32studio.com)
